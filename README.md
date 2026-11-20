@@ -112,9 +112,6 @@ LUFFY/
 - [ ] **luffy/verl/verl/protocol.py:170** - (zhangchi.usc1992) add consistency check
 - [ ] **luffy/verl/verl/protocol.py:266** - we can actually lift this restriction if needed
 - [ ] **luffy/verl/verl/protocol.py:352** - (zhangchi.usc1992) whether to copy
-- [ ] **luffy/verl/verl/protocol.py:156** - (zhangchi.usc1992) add consistency check
-- [ ] **luffy/verl/verl/protocol.py:252** - we can actually lift this restriction if needed
-- [ ] **luffy/verl/verl/protocol.py:338** - (zhangchi.usc1992) whether to copy
 - [ ] **luffy/verl/verl/single_controller/ray/base.py:439** - create a class with customizable name
 - [ ] **luffy/verl/verl/third_party/vllm/vllm_v_0_3_1/arg_utils.py:64** - (shengguangming): delete the unused args
 - [ ] **luffy/verl/verl/third_party/vllm/vllm_v_0_3_1/arg_utils.py:147** - (woosuk): Support fine-grained seeds (e.g., seed per request).
